@@ -1,21 +1,28 @@
-# Pieces-auto : 
+# 🚗 Pieces-auto
 
-Apercu du projet : 
+Projet de site web pour la présentation et la gestion de pièces automobiles. Ce projet offre une interface claire pour afficher des pièces détachées, avec des fonctionnalités interactives pour l'utilisateur.
 
-1er photo :
-![Capture d'écran 2024-11-04 102545](https://github.com/user-attachments/assets/c04f11e7-f229-4833-b4b2-5cb6f96d40d4)
-<br>
-<br>
-2ème photo : 
-![Capture d'écran 2024-11-04 102614](https://github.com/user-attachments/assets/d8be9ac7-5e8c-4579-8da5-d6fb28961f15)
+## 🌐 Aperçu du projet
 
+### 📸 Capture d'écran - Page d'accueil
 
-Installation : 
+![Capture d'écran 2024-11-04 102545](https://github.com/user-attachments/assets/6f2d6fff-abf6-4f3d-9083-382e5758062b)
 
-Après avoir cloné le repo vous avez plusieurs options pour lancer le projet.
+### 📸 Capture d'écran - Détails du produit
 
-Si vous utiliser VSCode ou un autre éditeur de code avec une extersion de serveur web comme live server, vous pouvez lancer direcement votre site avec l'extension que vous utilisez habituellement.
+![Capture d'écran 2024-11-04 102614](https://github.com/user-attachments/assets/c48777de-3261-4840-9b65-1c2d70cc39bf)
 
-Dans le cas contraire vous pouvez installer les dépendances de ce projet avec npm install puis lancer le projet via la commande npm start. Vous verrez dans le termninal le lien vers le site (par defaut http://127.0.0.1:8080 )
+## 🛠️ Installation
 
-Adresse du depot github de l'API : https://github.com/OpenClassrooms-Student-Center/7697016-Back-End
+Après avoir cloné le dépôt, plusieurs options s'offrent à vous pour lancer le projet :
+
+### 🚀 Option 1 : Utiliser un éditeur de code
+
+- Si vous utilisez **VSCode** ou un autre éditeur disposant d'une extension de serveur web (comme **Live Server**), lancez directement votre site à l'aide de cette extension.
+
+### 🚀 Option 2 : Utiliser Node.js et NPM
+
+1. Installez les dépendances du projet avec la commande suivante :
+
+```bash
+npm install
